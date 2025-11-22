@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv) == 3:
-    script _name = sys.argv[0]
+    script_name = sys.argv[0]
     name = sys.argv[1]
     rollno = sys.argv[2]
     print("Usage provided input values:")
